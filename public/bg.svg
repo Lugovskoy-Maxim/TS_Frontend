@@ -1,0 +1,755 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 1000 809.5279694825427" preserveAspectRatio="xMaxYMax slice">
+  <g transform="scale(0.9706570377488521)">
+    <rect x="0" y="0" width="1030.235294117647" height="834" fill="transparent" />
+    <rect x="4.905882352941177" y="4.905882352941177" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <circle cx="14.72" cy="14.72" r="9.81" fill="#e2f6ff" />
+    <g transform="translate(4.91,24.53) scale(0.9810000000000001) rotate(0)">
+      <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20ZM10 17C13.866 17 17 13.866 17 10C17 6.13401 13.866 3 10 3C6.13401 3 3 6.13401 3 10C3 13.866 6.13401 17 10 17Z"
+        fill="#e9ebfc" />
+    </g>
+    <rect x="152.08235294117648" y="4.905882352941177" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(152.08,4.91) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0H20V10L10 20H0V10L10 0Z" fill="#f0f0f2" />
+    </g>
+    <g transform="translate(171.71,4.91) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0L20 10L10 20L0 10L10 0Z" fill="#effaff" />
+    </g>
+    <rect x="299.25882352941176" y="4.905882352941177" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <rect x="495.49411764705883" y="4.905882352941177" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(515.12,4.91) scale(0.9810000000000001) rotate(0)">
+      <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20ZM10 17C13.866 17 17 13.866 17 10C17 6.13401 13.866 3 10 3C6.13401 3 3 6.13401 3 10C3 13.866 6.13401 17 10 17Z"
+        fill="#dbdefa" />
+    </g>
+    <circle cx="505.3" cy="34.34" r="9.81" fill="#f9f9f9" />
+    <rect x="740.7882352941177" y="4.905882352941177" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <circle cx="770.2199999999999" cy="14.72" r="9.81" fill="#f7fcff" />
+    <rect x="789.8470588235294" y="4.905882352941177" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <rect x="937.0235294117648" y="4.905882352941177" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <rect x="4.905882352941177" y="53.964705882352945" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(4.91,53.96) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0L20 10L10 20L0 10L10 0Z" fill="#fefeff" />
+    </g>
+    <rect x="152.08235294117648" y="53.964705882352945" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(171.71,53.96) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0L20 10L10 20L0 10L10 0Z" fill="#d8dbf9" />
+    </g>
+    <rect x="250.20000000000002" y="53.964705882352945" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(250.2,73.59) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0L20 10L10 20L0 10L10 0Z" fill="#ededef" />
+    </g>
+    <rect x="495.49411764705883" y="53.964705882352945" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(515.12,53.96) scale(0.9810000000000001) rotate(0)">
+      <path
+        d="M19.9981 0.00193429L3.72652 -7.68637e-07L8.4784 4.75382L0 13.2345L6.76585 20L15.2462 11.5208L20 16.2746L19.9981 0.00193429Z"
+        fill="#e6e8fb" />
+    </g>
+    <rect x="544.5529411764707" y="53.964705882352945" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(564.18,73.59) scale(0.9810000000000001) rotate(0)">
+      <path d="M13 0H20V7L7 20H0V13L13 0Z" fill="#f8f8f9" />
+    </g>
+    <rect x="789.8470588235294" y="53.964705882352945" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(809.47,73.59) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0L20 10L10 20L0 10L10 0Z" fill="#e3e5fb" />
+    </g>
+    <rect x="838.9058823529411" y="53.964705882352945" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <rect x="887.964705882353" y="53.964705882352945" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <rect x="201.14117647058825" y="103.02352941176471" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <rect x="250.20000000000002" y="103.02352941176471" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(250.2,103.02) scale(0.9810000000000001) rotate(0)">
+      <path
+        d="M19.9981 0.00193429L3.72652 -7.68637e-07L8.4784 4.75382L0 13.2345L6.76585 20L15.2462 11.5208L20 16.2746L19.9981 0.00193429Z"
+        fill="#d9dcf9" />
+    </g>
+    <g transform="translate(269.82,103.02) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0H20V10L10 20H0V10L10 0Z" fill="#e2e4fb" />
+    </g>
+    <rect x="348.3176470588236" y="103.02352941176471" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(348.32,103.02) scale(0.9810000000000001) rotate(0)">
+      <path
+        d="M19.9981 0.00193429L3.72652 -7.68637e-07L8.4784 4.75382L0 13.2345L6.76585 20L15.2462 11.5208L20 16.2746L19.9981 0.00193429Z"
+        fill="#e2f6ff" />
+    </g>
+    <g transform="translate(348.32,122.65) scale(0.9810000000000001) rotate(0)">
+      <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20ZM10 17C13.866 17 17 13.866 17 10C17 6.13401 13.866 3 10 3C6.13401 3 3 6.13401 3 10C3 13.866 6.13401 17 10 17Z"
+        fill="#fdfdfe" />
+    </g>
+    <rect x="446.4352941176471" y="103.02352941176471" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <rect x="544.5529411764707" y="103.02352941176471" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(544.55,122.65) scale(0.9810000000000001) rotate(0)">
+      <path d="M13 0H20V7L7 20H0V13L13 0Z" fill="#f9f9f9" />
+    </g>
+    <rect x="593.6117647058824" y="103.02352941176471" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(593.61,122.65) scale(0.9810000000000001) rotate(0)">
+      <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20ZM10 17C13.866 17 17 13.866 17 10C17 6.13401 13.866 3 10 3C6.13401 3 3 6.13401 3 10C3 13.866 6.13401 17 10 17Z"
+        fill="#f0f0f1" />
+    </g>
+    <g transform="translate(613.24,122.65) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0L20 10L10 20L0 10L10 0Z" fill="#f8f9fe" />
+    </g>
+    <rect x="740.7882352941177" y="103.02352941176471" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(740.79,103.02) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0H20V10L10 20H0V10L10 0Z" fill="#dcf4ff" />
+    </g>
+    <g transform="translate(740.79,122.65) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0H20V10L10 20H0V10L10 0Z" fill="#daddf9" />
+    </g>
+    <rect x="887.964705882353" y="103.02352941176471" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <circle cx="897.77" cy="112.83" r="9.81" fill="#ebf9ff" />
+    <rect x="937.0235294117648" y="103.02352941176471" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(956.65,122.65) scale(0.9810000000000001) rotate(0)">
+      <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20ZM10 17C13.866 17 17 13.866 17 10C17 6.13401 13.866 3 10 3C6.13401 3 3 6.13401 3 10C3 13.866 6.13401 17 10 17Z"
+        fill="#f1f1f2" />
+    </g>
+    <rect x="446.4352941176471" y="152.08235294117648" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(446.44,152.08) scale(0.9810000000000001) rotate(0)">
+      <path
+        d="M19.9981 0.00193429L3.72652 -7.68637e-07L8.4784 4.75382L0 13.2345L6.76585 20L15.2462 11.5208L20 16.2746L19.9981 0.00193429Z"
+        fill="#dee1fa" />
+    </g>
+    <g transform="translate(446.44,171.71) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0L20 10L10 20L0 10L10 0Z" fill="#e2f6ff" />
+    </g>
+    <rect x="544.5529411764707" y="152.08235294117648" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <rect x="593.6117647058824" y="152.08235294117648" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(593.61,152.08) scale(0.9810000000000001) rotate(0)">
+      <path d="M5 0H10L5 5L0 10V5L5 0Z" fill="#feffff" />
+      <path d="M20 15V20H15L20 15Z" fill="#feffff" />
+      <path d="M20 5V10L15 15L10 20H5L20 5Z" fill="#feffff" />
+      <path d="M15 0H20L5 15.0002L0 20.0002V15.0002L15 0Z" fill="#feffff" />
+    </g>
+    <circle cx="623.05" cy="161.89000000000001" r="9.81" fill="#eef9ff" />
+    <g transform="translate(613.24,171.71) scale(0.9810000000000001) rotate(0)">
+      <path
+        d="M19.9981 0.00193429L3.72652 -7.68637e-07L8.4784 4.75382L0 13.2345L6.76585 20L15.2462 11.5208L20 16.2746L19.9981 0.00193429Z"
+        fill="#eaeaec" />
+    </g>
+    <rect x="740.7882352941177" y="152.08235294117648" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <circle cx="750.5999999999999" cy="161.89000000000001" r="9.81" fill="#f6f6f7" />
+    <g transform="translate(740.79,171.71) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0L20 10L10 20L0 10L10 0Z" fill="#f5f5f6" />
+    </g>
+    <rect x="789.8470588235294" y="152.08235294117648" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <rect x="986.0823529411765" y="152.08235294117648" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(986.08,152.08) scale(0.9810000000000001) rotate(0)">
+      <path d="M13 0H20V7L7 20H0V13L13 0Z" fill="#f1f1f3" />
+    </g>
+    <g transform="translate(1005.71,152.08) scale(0.9810000000000001) rotate(0)">
+      <path d="M5 0H10L5 5L0 10V5L5 0Z" fill="#ececee" />
+      <path d="M20 15V20H15L20 15Z" fill="#ececee" />
+      <path d="M20 5V10L15 15L10 20H5L20 5Z" fill="#ececee" />
+      <path d="M15 0H20L5 15.0002L0 20.0002V15.0002L15 0Z" fill="#ececee" />
+    </g>
+    <rect x="152.08235294117648" y="201.14117647058825" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(152.08,201.14) scale(0.9810000000000001) rotate(0)">
+      <path d="M5 0H10L5 5L0 10V5L5 0Z" fill="#fefefe" />
+      <path d="M20 15V20H15L20 15Z" fill="#fefefe" />
+      <path d="M20 5V10L15 15L10 20H5L20 5Z" fill="#fefefe" />
+      <path d="M15 0H20L5 15.0002L0 20.0002V15.0002L15 0Z" fill="#fefefe" />
+    </g>
+    <g transform="translate(152.08,220.76) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0L20 10L10 20L0 10L10 0Z" fill="#fcfcfc" />
+    </g>
+    <g transform="translate(171.71,220.76) scale(0.9810000000000001) rotate(0)">
+      <path d="M13 0H20V7L7 20H0V13L13 0Z" fill="#f8f8f9" />
+    </g>
+    <rect x="299.25882352941176" y="201.14117647058825" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(318.88,201.14) scale(0.9810000000000001) rotate(0)">
+      <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20ZM10 17C13.866 17 17 13.866 17 10C17 6.13401 13.866 3 10 3C6.13401 3 3 6.13401 3 10C3 13.866 6.13401 17 10 17Z"
+        fill="#f4fbff" />
+    </g>
+    <rect x="495.49411764705883" y="201.14117647058825" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(495.49,201.14) scale(0.9810000000000001) rotate(0)">
+      <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20ZM10 17C13.866 17 17 13.866 17 10C17 6.13401 13.866 3 10 3C6.13401 3 3 6.13401 3 10C3 13.866 6.13401 17 10 17Z"
+        fill="#daddfa" />
+    </g>
+    <circle cx="505.3" cy="230.57" r="9.81" fill="#f8fdff" />
+    <rect x="593.6117647058824" y="201.14117647058825" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(593.61,201.14) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0H20V10L10 20H0V10L10 0Z" fill="#e6f7ff" />
+    </g>
+    <g transform="translate(593.61,220.76) scale(0.9810000000000001) rotate(0)">
+      <path d="M5 0H10L5 5L0 10V5L5 0Z" fill="#f5fcff" />
+      <path d="M20 15V20H15L20 15Z" fill="#f5fcff" />
+      <path d="M20 5V10L15 15L10 20H5L20 5Z" fill="#f5fcff" />
+      <path d="M15 0H20L5 15.0002L0 20.0002V15.0002L15 0Z" fill="#f5fcff" />
+    </g>
+    <rect x="642.6705882352941" y="201.14117647058825" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <rect x="789.8470588235294" y="201.14117647058825" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(789.85,201.14) scale(0.9810000000000001) rotate(0)">
+      <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20ZM10 17C13.866 17 17 13.866 17 10C17 6.13401 13.866 3 10 3C6.13401 3 3 6.13401 3 10C3 13.866 6.13401 17 10 17Z"
+        fill="#e1f5ff" />
+    </g>
+    <rect x="4.905882352941177" y="250.20000000000002" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(4.91,250.2) scale(0.9810000000000001) rotate(0)">
+      <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20ZM10 17C13.866 17 17 13.866 17 10C17 6.13401 13.866 3 10 3C6.13401 3 3 6.13401 3 10C3 13.866 6.13401 17 10 17Z"
+        fill="transparent" />
+    </g>
+    <g transform="translate(24.53,250.2) scale(0.9810000000000001) rotate(0)">
+      <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20ZM10 17C13.866 17 17 13.866 17 10C17 6.13401 13.866 3 10 3C6.13401 3 3 6.13401 3 10C3 13.866 6.13401 17 10 17Z"
+        fill="#e7f7ff" />
+    </g>
+    <rect x="250.20000000000002" y="250.20000000000002" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(250.2,269.82) scale(0.9810000000000001) rotate(0)">
+      <path
+        d="M19.9981 0.00193429L3.72652 -7.68637e-07L8.4784 4.75382L0 13.2345L6.76585 20L15.2462 11.5208L20 16.2746L19.9981 0.00193429Z"
+        fill="#f0f0f1" />
+    </g>
+    <rect x="495.49411764705883" y="250.20000000000002" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(495.49,250.2) scale(0.9810000000000001) rotate(0)">
+      <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20ZM10 17C13.866 17 17 13.866 17 10C17 6.13401 13.866 3 10 3C6.13401 3 3 6.13401 3 10C3 13.866 6.13401 17 10 17Z"
+        fill="#f1f2fd" />
+    </g>
+    <circle cx="505.3" cy="279.63" r="9.81" fill="#def4ff" />
+    <rect x="691.7294117647059" y="250.20000000000002" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(691.73,250.2) scale(0.9810000000000001) rotate(0)">
+      <path d="M13 0H20V7L7 20H0V13L13 0Z" fill="#e4e6fb" />
+    </g>
+    <g transform="translate(711.35,250.2) scale(0.9810000000000001) rotate(0)">
+      <path d="M5 0H10L5 5L0 10V5L5 0Z" fill="#f1f1f2" />
+      <path d="M20 15V20H15L20 15Z" fill="#f1f1f2" />
+      <path d="M20 5V10L15 15L10 20H5L20 5Z" fill="#f1f1f2" />
+      <path d="M15 0H20L5 15.0002L0 20.0002V15.0002L15 0Z" fill="#f1f1f2" />
+    </g>
+    <g transform="translate(711.35,269.82) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0H20V10L10 20H0V10L10 0Z" fill="#fefefe" />
+    </g>
+    <rect x="838.9058823529411" y="250.20000000000002" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <rect x="201.14117647058825" y="299.25882352941176" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <rect x="299.25882352941176" y="299.25882352941176" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(318.88,299.26) scale(0.9810000000000001) rotate(0)">
+      <path
+        d="M19.9981 0.00193429L3.72652 -7.68637e-07L8.4784 4.75382L0 13.2345L6.76585 20L15.2462 11.5208L20 16.2746L19.9981 0.00193429Z"
+        fill="#f0f0f1" />
+    </g>
+    <g transform="translate(299.26,318.88) scale(0.9810000000000001) rotate(0)">
+      <path d="M13 0H20V7L7 20H0V13L13 0Z" fill="#eff0fd" />
+    </g>
+    <rect x="397.3764705882353" y="299.25882352941176" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <circle cx="407.19" cy="309.07" r="9.81" fill="#fdfdff" />
+    <g transform="translate(417,318.88) scale(0.9810000000000001) rotate(0)">
+      <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20ZM10 17C13.866 17 17 13.866 17 10C17 6.13401 13.866 3 10 3C6.13401 3 3 6.13401 3 10C3 13.866 6.13401 17 10 17Z"
+        fill="#fcfcfc" />
+    </g>
+    <rect x="495.49411764705883" y="299.25882352941176" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(495.49,299.26) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0L20 10L10 20L0 10L10 0Z" fill="#efeff0" />
+    </g>
+    <g transform="translate(495.49,318.88) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0L20 10L10 20L0 10L10 0Z" fill="#f3f3f4" />
+    </g>
+    <rect x="593.6117647058824" y="299.25882352941176" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(613.24,299.26) scale(0.9810000000000001) rotate(0)">
+      <path d="M5 0H10L5 5L0 10V5L5 0Z" fill="transparent" />
+      <path d="M20 15V20H15L20 15Z" fill="transparent" />
+      <path d="M20 5V10L15 15L10 20H5L20 5Z" fill="transparent" />
+      <path d="M15 0H20L5 15.0002L0 20.0002V15.0002L15 0Z" fill="transparent" />
+    </g>
+    <g transform="translate(593.61,318.88) scale(0.9810000000000001) rotate(0)">
+      <path d="M5 0H10L5 5L0 10V5L5 0Z" fill="#e8e9fb" />
+      <path d="M20 15V20H15L20 15Z" fill="#e8e9fb" />
+      <path d="M20 5V10L15 15L10 20H5L20 5Z" fill="#e8e9fb" />
+      <path d="M15 0H20L5 15.0002L0 20.0002V15.0002L15 0Z" fill="#e8e9fb" />
+    </g>
+    <rect x="937.0235294117648" y="299.25882352941176" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(956.65,299.26) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0H20V10L10 20H0V10L10 0Z" fill="#e9ebfc" />
+    </g>
+    <g transform="translate(956.65,318.88) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0L20 10L10 20L0 10L10 0Z" fill="#ebedfc" />
+    </g>
+    <rect x="4.905882352941177" y="348.3176470588236" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <rect x="53.964705882352945" y="348.3176470588236" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(73.59,348.32) scale(0.9810000000000001) rotate(0)">
+      <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20ZM10 17C13.866 17 17 13.866 17 10C17 6.13401 13.866 3 10 3C6.13401 3 3 6.13401 3 10C3 13.866 6.13401 17 10 17Z"
+        fill="#e3e5fb" />
+    </g>
+    <rect x="201.14117647058825" y="348.3176470588236" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <rect x="593.6117647058824" y="348.3176470588236" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(593.61,367.94) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0H20V10L10 20H0V10L10 0Z" fill="#e3f6ff" />
+    </g>
+    <rect x="691.7294117647059" y="348.3176470588236" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(691.73,348.32) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0H20V10L10 20H0V10L10 0Z" fill="#e4e6fb" />
+    </g>
+    <g transform="translate(691.73,367.94) scale(0.9810000000000001) rotate(0)">
+      <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20ZM10 17C13.866 17 17 13.866 17 10C17 6.13401 13.866 3 10 3C6.13401 3 3 6.13401 3 10C3 13.866 6.13401 17 10 17Z"
+        fill="#fcfeff" />
+    </g>
+    <rect x="740.7882352941177" y="348.3176470588236" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(740.79,367.94) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0L20 10L10 20L0 10L10 0Z" fill="#fcfcfc" />
+    </g>
+    <g transform="translate(760.41,367.94) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0L20 10L10 20L0 10L10 0Z" fill="#ececee" />
+    </g>
+    <rect x="789.8470588235294" y="348.3176470588236" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <rect x="299.25882352941176" y="397.3764705882353" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <rect x="348.3176470588236" y="397.3764705882353" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(367.94,397.38) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0H20V10L10 20H0V10L10 0Z" fill="#fafafe" />
+    </g>
+    <g transform="translate(367.94,417) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0L20 10L10 20L0 10L10 0Z" fill="#f0faff" />
+    </g>
+    <rect x="593.6117647058824" y="397.3764705882353" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(593.61,397.38) scale(0.9810000000000001) rotate(0)">
+      <path d="M13 0H20V7L7 20H0V13L13 0Z" fill="#e4f6ff" />
+    </g>
+    <g transform="translate(613.24,397.38) scale(0.9810000000000001) rotate(0)">
+      <path
+        d="M19.9981 0.00193429L3.72652 -7.68637e-07L8.4784 4.75382L0 13.2345L6.76585 20L15.2462 11.5208L20 16.2746L19.9981 0.00193429Z"
+        fill="#f4f4f5" />
+    </g>
+    <g transform="translate(613.24,417) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0L20 10L10 20L0 10L10 0Z" fill="#f8f8f9" />
+    </g>
+    <rect x="740.7882352941177" y="397.3764705882353" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <rect x="789.8470588235294" y="397.3764705882353" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <circle cx="819.28" cy="426.81" r="9.81" fill="#fbfbfb" />
+    <rect x="986.0823529411765" y="397.3764705882353" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(1005.71,397.38) scale(0.9810000000000001) rotate(0)">
+      <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20ZM10 17C13.866 17 17 13.866 17 10C17 6.13401 13.866 3 10 3C6.13401 3 3 6.13401 3 10C3 13.866 6.13401 17 10 17Z"
+        fill="#fcfeff" />
+    </g>
+    <rect x="299.25882352941176" y="446.4352941176471" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(318.88,446.44) scale(0.9810000000000001) rotate(0)">
+      <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20ZM10 17C13.866 17 17 13.866 17 10C17 6.13401 13.866 3 10 3C6.13401 3 3 6.13401 3 10C3 13.866 6.13401 17 10 17Z"
+        fill="#f2f2f3" />
+    </g>
+    <rect x="397.3764705882353" y="446.4352941176471" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(417,466.06) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0L20 10L10 20L0 10L10 0Z" fill="#edeefc" />
+    </g>
+    <rect x="593.6117647058824" y="446.4352941176471" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(613.24,446.44) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0H20V10L10 20H0V10L10 0Z" fill="#f3fbff" />
+    </g>
+    <g transform="translate(593.61,466.06) scale(0.9810000000000001) rotate(0)">
+      <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20ZM10 17C13.866 17 17 13.866 17 10C17 6.13401 13.866 3 10 3C6.13401 3 3 6.13401 3 10C3 13.866 6.13401 17 10 17Z"
+        fill="#fbfcfe" />
+    </g>
+    <rect x="642.6705882352941" y="446.4352941176471" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(642.67,446.44) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0H20V10L10 20H0V10L10 0Z" fill="#fcfcfd" />
+    </g>
+    <rect x="887.964705882353" y="446.4352941176471" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(887.96,466.06) scale(0.9810000000000001) rotate(0)">
+      <path
+        d="M19.9981 0.00193429L3.72652 -7.68637e-07L8.4784 4.75382L0 13.2345L6.76585 20L15.2462 11.5208L20 16.2746L19.9981 0.00193429Z"
+        fill="#dff5ff" />
+    </g>
+    <g transform="translate(907.59,466.06) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0L20 10L10 20L0 10L10 0Z" fill="#f6fcff" />
+    </g>
+    <rect x="937.0235294117648" y="446.4352941176471" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <rect x="986.0823529411765" y="446.4352941176471" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(986.08,466.06) scale(0.9810000000000001) rotate(0)">
+      <path d="M13 0H20V7L7 20H0V13L13 0Z" fill="#e6f7ff" />
+    </g>
+    <rect x="348.3176470588236" y="495.49411764705883" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(348.32,495.49) scale(0.9810000000000001) rotate(0)">
+      <path
+        d="M19.9981 0.00193429L3.72652 -7.68637e-07L8.4784 4.75382L0 13.2345L6.76585 20L15.2462 11.5208L20 16.2746L19.9981 0.00193429Z"
+        fill="#f8f8f9" />
+    </g>
+    <rect x="544.5529411764707" y="495.49411764705883" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(544.55,515.12) scale(0.9810000000000001) rotate(0)">
+      <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20ZM10 17C13.866 17 17 13.866 17 10C17 6.13401 13.866 3 10 3C6.13401 3 3 6.13401 3 10C3 13.866 6.13401 17 10 17Z"
+        fill="#f4f4f5" />
+    </g>
+    <rect x="593.6117647058824" y="495.49411764705883" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <circle cx="623.05" cy="505.3" r="9.81" fill="#dff5ff" />
+    <rect x="740.7882352941177" y="495.49411764705883" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(740.79,515.12) scale(0.9810000000000001) rotate(0)">
+      <path d="M5 0H10L5 5L0 10V5L5 0Z" fill="#f7f7fe" />
+      <path d="M20 15V20H15L20 15Z" fill="#f7f7fe" />
+      <path d="M20 5V10L15 15L10 20H5L20 5Z" fill="#f7f7fe" />
+      <path d="M15 0H20L5 15.0002L0 20.0002V15.0002L15 0Z" fill="#f7f7fe" />
+    </g>
+    <rect x="53.964705882352945" y="544.5529411764707" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(53.96,564.18) scale(0.9810000000000001) rotate(0)">
+      <path d="M13 0H20V7L7 20H0V13L13 0Z" fill="#f6f6f7" />
+    </g>
+    <rect x="103.02352941176471" y="544.5529411764707" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(103.02,544.55) scale(0.9810000000000001) rotate(0)">
+      <path
+        d="M19.9981 0.00193429L3.72652 -7.68637e-07L8.4784 4.75382L0 13.2345L6.76585 20L15.2462 11.5208L20 16.2746L19.9981 0.00193429Z"
+        fill="#f8f8fe" />
+    </g>
+    <rect x="152.08235294117648" y="544.5529411764707" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(152.08,544.55) scale(0.9810000000000001) rotate(0)">
+      <path d="M13 0H20V7L7 20H0V13L13 0Z" fill="#daddf9" />
+    </g>
+    <rect x="250.20000000000002" y="544.5529411764707" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(250.2,564.18) scale(0.9810000000000001) rotate(0)">
+      <path d="M5 0H10L5 5L0 10V5L5 0Z" fill="#f2f2f3" />
+      <path d="M20 15V20H15L20 15Z" fill="#f2f2f3" />
+      <path d="M20 5V10L15 15L10 20H5L20 5Z" fill="#f2f2f3" />
+      <path d="M15 0H20L5 15.0002L0 20.0002V15.0002L15 0Z" fill="#f2f2f3" />
+    </g>
+    <rect x="299.25882352941176" y="544.5529411764707" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(318.88,544.55) scale(0.9810000000000001) rotate(0)">
+      <path d="M5 0H10L5 5L0 10V5L5 0Z" fill="#d9dcf9" />
+      <path d="M20 15V20H15L20 15Z" fill="#d9dcf9" />
+      <path d="M20 5V10L15 15L10 20H5L20 5Z" fill="#d9dcf9" />
+      <path d="M15 0H20L5 15.0002L0 20.0002V15.0002L15 0Z" fill="#d9dcf9" />
+    </g>
+    <g transform="translate(299.26,564.18) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0H20V10L10 20H0V10L10 0Z" fill="#e8f8ff" />
+    </g>
+    <rect x="348.3176470588236" y="544.5529411764707" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(367.94,544.55) scale(0.9810000000000001) rotate(0)">
+      <path d="M13 0H20V7L7 20H0V13L13 0Z" fill="#dcf4ff" />
+    </g>
+    <rect x="446.4352941176471" y="544.5529411764707" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <rect x="544.5529411764707" y="544.5529411764707" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(564.18,564.18) scale(0.9810000000000001) rotate(0)">
+      <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20ZM10 17C13.866 17 17 13.866 17 10C17 6.13401 13.866 3 10 3C6.13401 3 3 6.13401 3 10C3 13.866 6.13401 17 10 17Z"
+        fill="#e5f6ff" />
+    </g>
+    <rect x="593.6117647058824" y="544.5529411764707" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <rect x="740.7882352941177" y="544.5529411764707" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(740.79,564.18) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0L20 10L10 20L0 10L10 0Z" fill="#f9fdff" />
+    </g>
+    <rect x="937.0235294117648" y="544.5529411764707" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <circle cx="946.8299999999999" cy="554.3599999999999" r="9.81" fill="#e8f8ff" />
+    <rect x="53.964705882352945" y="593.6117647058824" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <rect x="201.14117647058825" y="593.6117647058824" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(201.14,613.24) scale(0.9810000000000001) rotate(0)">
+      <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20ZM10 17C13.866 17 17 13.866 17 10C17 6.13401 13.866 3 10 3C6.13401 3 3 6.13401 3 10C3 13.866 6.13401 17 10 17Z"
+        fill="#e7f7ff" />
+    </g>
+    <g transform="translate(220.76,613.24) scale(0.9810000000000001) rotate(0)">
+      <path d="M5 0H10L5 5L0 10V5L5 0Z" fill="#e5e7fb" />
+      <path d="M20 15V20H15L20 15Z" fill="#e5e7fb" />
+      <path d="M20 5V10L15 15L10 20H5L20 5Z" fill="#e5e7fb" />
+      <path d="M15 0H20L5 15.0002L0 20.0002V15.0002L15 0Z" fill="#e5e7fb" />
+    </g>
+    <rect x="348.3176470588236" y="593.6117647058824" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <rect x="544.5529411764707" y="593.6117647058824" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(544.55,593.61) scale(0.9810000000000001) rotate(0)">
+      <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20ZM10 17C13.866 17 17 13.866 17 10C17 6.13401 13.866 3 10 3C6.13401 3 3 6.13401 3 10C3 13.866 6.13401 17 10 17Z"
+        fill="#efeff1" />
+    </g>
+    <rect x="691.7294117647059" y="593.6117647058824" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(711.35,593.61) scale(0.9810000000000001) rotate(0)">
+      <path d="M5 0H10L5 5L0 10V5L5 0Z" fill="#f9f9fe" />
+      <path d="M20 15V20H15L20 15Z" fill="#f9f9fe" />
+      <path d="M20 5V10L15 15L10 20H5L20 5Z" fill="#f9f9fe" />
+      <path d="M15 0H20L5 15.0002L0 20.0002V15.0002L15 0Z" fill="#f9f9fe" />
+    </g>
+    <g transform="translate(711.35,613.24) scale(0.9810000000000001) rotate(0)">
+      <path d="M5 0H10L5 5L0 10V5L5 0Z" fill="#f7f7f8" />
+      <path d="M20 15V20H15L20 15Z" fill="#f7f7f8" />
+      <path d="M20 5V10L15 15L10 20H5L20 5Z" fill="#f7f7f8" />
+      <path d="M15 0H20L5 15.0002L0 20.0002V15.0002L15 0Z" fill="#f7f7f8" />
+    </g>
+    <rect x="838.9058823529411" y="593.6117647058824" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(838.91,593.61) scale(0.9810000000000001) rotate(0)">
+      <path
+        d="M19.9981 0.00193429L3.72652 -7.68637e-07L8.4784 4.75382L0 13.2345L6.76585 20L15.2462 11.5208L20 16.2746L19.9981 0.00193429Z"
+        fill="#dbdefa" />
+    </g>
+    <g transform="translate(858.53,593.61) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0L20 10L10 20L0 10L10 0Z" fill="#daddf9" />
+    </g>
+    <g transform="translate(838.91,613.24) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0H20V10L10 20H0V10L10 0Z" fill="#eef9ff" />
+    </g>
+    <g transform="translate(858.53,613.24) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0H20V10L10 20H0V10L10 0Z" fill="#f0f0f2" />
+    </g>
+    <rect x="937.0235294117648" y="593.6117647058824" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <rect x="986.0823529411765" y="593.6117647058824" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(986.08,593.61) scale(0.9810000000000001) rotate(0)">
+      <path d="M5 0H10L5 5L0 10V5L5 0Z" fill="#d9f3ff" />
+      <path d="M20 15V20H15L20 15Z" fill="#d9f3ff" />
+      <path d="M20 5V10L15 15L10 20H5L20 5Z" fill="#d9f3ff" />
+      <path d="M15 0H20L5 15.0002L0 20.0002V15.0002L15 0Z" fill="#d9f3ff" />
+    </g>
+    <g transform="translate(1005.71,593.61) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0H20V10L10 20H0V10L10 0Z" fill="#dcdffa" />
+    </g>
+    <rect x="53.964705882352945" y="642.6705882352941" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(73.59,642.67) scale(0.9810000000000001) rotate(0)">
+      <path d="M5 0H10L5 5L0 10V5L5 0Z" fill="#fefeff" />
+      <path d="M20 15V20H15L20 15Z" fill="#fefeff" />
+      <path d="M20 5V10L15 15L10 20H5L20 5Z" fill="#fefeff" />
+      <path d="M15 0H20L5 15.0002L0 20.0002V15.0002L15 0Z" fill="#fefeff" />
+    </g>
+    <g transform="translate(53.96,662.29) scale(0.9810000000000001) rotate(0)">
+      <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20ZM10 17C13.866 17 17 13.866 17 10C17 6.13401 13.866 3 10 3C6.13401 3 3 6.13401 3 10C3 13.866 6.13401 17 10 17Z"
+        fill="#ececee" />
+    </g>
+    <rect x="446.4352941176471" y="642.6705882352941" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <circle cx="456.25" cy="672.0999999999999" r="9.81" fill="#f8f8f9" />
+    <g transform="translate(466.06,662.29) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0H20V10L10 20H0V10L10 0Z" fill="#ededef" />
+    </g>
+    <rect x="544.5529411764707" y="642.6705882352941" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(544.55,642.67) scale(0.9810000000000001) rotate(0)">
+      <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20ZM10 17C13.866 17 17 13.866 17 10C17 6.13401 13.866 3 10 3C6.13401 3 3 6.13401 3 10C3 13.866 6.13401 17 10 17Z"
+        fill="#dfe1fa" />
+    </g>
+    <g transform="translate(564.18,662.29) scale(0.9810000000000001) rotate(0)">
+      <path d="M5 0H10L5 5L0 10V5L5 0Z" fill="#f6f6f6" />
+      <path d="M20 15V20H15L20 15Z" fill="#f6f6f6" />
+      <path d="M20 5V10L15 15L10 20H5L20 5Z" fill="#f6f6f6" />
+      <path d="M15 0H20L5 15.0002L0 20.0002V15.0002L15 0Z" fill="#f6f6f6" />
+    </g>
+    <rect x="887.964705882353" y="642.6705882352941" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(887.96,662.29) scale(0.9810000000000001) rotate(0)">
+      <path
+        d="M19.9981 0.00193429L3.72652 -7.68637e-07L8.4784 4.75382L0 13.2345L6.76585 20L15.2462 11.5208L20 16.2746L19.9981 0.00193429Z"
+        fill="#eeeef0" />
+    </g>
+    <rect x="201.14117647058825" y="691.7294117647059" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(201.14,691.73) scale(0.9810000000000001) rotate(0)">
+      <path
+        d="M19.9981 0.00193429L3.72652 -7.68637e-07L8.4784 4.75382L0 13.2345L6.76585 20L15.2462 11.5208L20 16.2746L19.9981 0.00193429Z"
+        fill="#ececee" />
+    </g>
+    <g transform="translate(220.76,711.35) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0H20V10L10 20H0V10L10 0Z" fill="#fbfeff" />
+    </g>
+    <rect x="348.3176470588236" y="691.7294117647059" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(348.32,691.73) scale(0.9810000000000001) rotate(0)">
+      <path d="M13 0H20V7L7 20H0V13L13 0Z" fill="#feffff" />
+    </g>
+    <g transform="translate(367.94,711.35) scale(0.9810000000000001) rotate(0)">
+      <path d="M5 0H10L5 5L0 10V5L5 0Z" fill="#fbfbfb" />
+      <path d="M20 15V20H15L20 15Z" fill="#fbfbfb" />
+      <path d="M20 5V10L15 15L10 20H5L20 5Z" fill="#fbfbfb" />
+      <path d="M15 0H20L5 15.0002L0 20.0002V15.0002L15 0Z" fill="#fbfbfb" />
+    </g>
+    <rect x="691.7294117647059" y="691.7294117647059" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(691.73,691.73) scale(0.9810000000000001) rotate(0)">
+      <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20ZM10 17C13.866 17 17 13.866 17 10C17 6.13401 13.866 3 10 3C6.13401 3 3 6.13401 3 10C3 13.866 6.13401 17 10 17Z"
+        fill="#fbfbfb" />
+    </g>
+    <rect x="887.964705882353" y="691.7294117647059" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <circle cx="917.4" cy="701.54" r="9.81" fill="#f2f2f3" />
+    <rect x="937.0235294117648" y="691.7294117647059" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(956.65,711.35) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0L20 10L10 20L0 10L10 0Z" fill="#dbf3ff" />
+    </g>
+    <rect x="397.3764705882353" y="740.7882352941177" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(417,740.79) scale(0.9810000000000001) rotate(0)">
+      <path d="M13 0H20V7L7 20H0V13L13 0Z" fill="#e5f7ff" />
+    </g>
+    <rect x="544.5529411764707" y="740.7882352941177" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(564.18,760.41) scale(0.9810000000000001) rotate(0)">
+      <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20ZM10 17C13.866 17 17 13.866 17 10C17 6.13401 13.866 3 10 3C6.13401 3 3 6.13401 3 10C3 13.866 6.13401 17 10 17Z"
+        fill="#fefefe" />
+    </g>
+    <rect x="593.6117647058824" y="740.7882352941177" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(593.61,760.41) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0H20V10L10 20H0V10L10 0Z" fill="#e2f6ff" />
+    </g>
+    <rect x="838.9058823529411" y="740.7882352941177" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <rect x="103.02352941176471" y="789.8470588235294" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <rect x="348.3176470588236" y="789.8470588235294" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(348.32,789.85) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0L20 10L10 20L0 10L10 0Z" fill="transparent" />
+    </g>
+    <g transform="translate(367.94,809.47) scale(0.9810000000000001) rotate(0)">
+      <path d="M13 0H20V7L7 20H0V13L13 0Z" fill="#fdfdff" />
+    </g>
+    <rect x="495.49411764705883" y="789.8470588235294" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(515.12,789.85) scale(0.9810000000000001) rotate(0)">
+      <path d="M13 0H20V7L7 20H0V13L13 0Z" fill="#e9ebfc" />
+    </g>
+    <g transform="translate(515.12,809.47) scale(0.9810000000000001) rotate(0)">
+      <path fill-rule="evenodd" clip-rule="evenodd"
+        d="M10 20C15.5228 20 20 15.5228 20 10C20 4.47715 15.5228 0 10 0C4.47715 0 0 4.47715 0 10C0 15.5228 4.47715 20 10 20ZM10 17C13.866 17 17 13.866 17 10C17 6.13401 13.866 3 10 3C6.13401 3 3 6.13401 3 10C3 13.866 6.13401 17 10 17Z"
+        fill="#ebebed" />
+    </g>
+    <rect x="593.6117647058824" y="789.8470588235294" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(593.61,789.85) scale(0.9810000000000001) rotate(0)">
+      <path d="M5 0H10L5 5L0 10V5L5 0Z" fill="#ddf4ff" />
+      <path d="M20 15V20H15L20 15Z" fill="#ddf4ff" />
+      <path d="M20 5V10L15 15L10 20H5L20 5Z" fill="#ddf4ff" />
+      <path d="M15 0H20L5 15.0002L0 20.0002V15.0002L15 0Z" fill="#ddf4ff" />
+    </g>
+    <g transform="translate(613.24,789.85) scale(0.9810000000000001) rotate(0)">
+      <path d="M5 0H10L5 5L0 10V5L5 0Z" fill="#f1f1f2" />
+      <path d="M20 15V20H15L20 15Z" fill="#f1f1f2" />
+      <path d="M20 5V10L15 15L10 20H5L20 5Z" fill="#f1f1f2" />
+      <path d="M15 0H20L5 15.0002L0 20.0002V15.0002L15 0Z" fill="#f1f1f2" />
+    </g>
+    <g transform="translate(593.61,809.47) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0H20V10L10 20H0V10L10 0Z" fill="#efeff1" />
+    </g>
+    <rect x="691.7294117647059" y="789.8470588235294" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(691.73,809.47) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0L20 10L10 20L0 10L10 0Z" fill="#fafafa" />
+    </g>
+    <g transform="translate(711.35,809.47) scale(0.9810000000000001) rotate(0)">
+      <path d="M13 0H20V7L7 20H0V13L13 0Z" fill="#d9dcf9" />
+    </g>
+    <rect x="789.8470588235294" y="789.8470588235294" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(809.47,789.85) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0H20V10L10 20H0V10L10 0Z" fill="#f6f6f7" />
+    </g>
+    <g transform="translate(809.47,809.47) scale(0.9810000000000001) rotate(0)">
+      <path d="M5 0H10L5 5L0 10V5L5 0Z" fill="#fcfcfc" />
+      <path d="M20 15V20H15L20 15Z" fill="#fcfcfc" />
+      <path d="M20 5V10L15 15L10 20H5L20 5Z" fill="#fcfcfc" />
+      <path d="M15 0H20L5 15.0002L0 20.0002V15.0002L15 0Z" fill="#fcfcfc" />
+    </g>
+    <rect x="838.9058823529411" y="789.8470588235294" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <g transform="translate(838.91,809.47) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0L20 10L10 20L0 10L10 0Z" fill="#fcfcfd" />
+    </g>
+    <g transform="translate(858.53,809.47) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0L20 10L10 20L0 10L10 0Z" fill="#f1faff" />
+    </g>
+    <rect x="887.964705882353" y="789.8470588235294" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+    <circle cx="897.77" cy="799.66" r="9.81" fill="#f5f5f6" />
+    <g transform="translate(907.59,789.85) scale(0.9810000000000001) rotate(0)">
+      <path d="M10 0H20V10L10 20H0V10L10 0Z" fill="#f0f0f1" />
+    </g>
+    <rect x="937.0235294117648" y="789.8470588235294" width="39.247058823529414"
+      height="39.247058823529414" fill="transparent" />
+  </g>
+</svg>
